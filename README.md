@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Manojkumar S 👋
 
-<!--
-**manojkumar3006/manojkumar3006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electrical and Electronics Engineering Student | Embedded Systems Enthusiast
 
-Here are some ideas to get you started:
+I'm an Electrical and Electronics Engineering student passionate about building practical solutions using embedded systems, microcontrollers, IoT, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy exploring how hardware and software interact, understanding communication protocols at the register level, and developing projects that solve real-world engineering problems.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Third-year Electrical and Electronics Engineering student at RMKEC.
+- 🔌 Interested in Embedded Systems, Firmware Development, and Electronics.
+- 🏆 Participated in various hackathons and engineering competitions.
+
+---
+
+## 🛠️ Technical Skills & Tools
+
+**Microcontrollers & Development Boards**
+- STM32 (Nucleo, Black Pill)
+- ESP32
+- Arduino Uno
+- Raspberry Pi
+
+**Programming Languages**
+- C
+- C++
+- Python (Basics)
+
+**Embedded Systems**
+- Bare-Metal Programming
+- STM32 HAL
+- FreeRTOS (Learning)
+
+---
+
+## 📫 Connect With Me
+
+Connect with me: www.linkedin.com/in/manoj-kumar-sridhar-5896b8332
+📫 Reach me at: manohanu7885@gmail.com
+👨‍💻 My projects are available at https://github.com/manojkumar3006
+---
+
+### "Building, experimenting, debugging, and learning — one project at a time."
+
+Thanks for visiting my profile! 🚀
