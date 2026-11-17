@@ -39,7 +39,9 @@ I enjoy exploring how hardware and software interact, understanding communicatio
 ## 📫 Connect With Me
 
 Connect with me: www.linkedin.com/in/manoj-kumar-sridhar-5896b8332
+
 📫 Reach me at: manohanu7885@gmail.com
+
 👨‍💻 My projects are available at https://github.com/manojkumar3006
 ---
 
